@@ -1,0 +1,9 @@
+npm init es6 -y
+
+npm install express
+npm install mongodb
+npm install mulder
+
+node (arquivo).js
+
+npm run dev
