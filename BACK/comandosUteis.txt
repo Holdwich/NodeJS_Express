@@ -1,4 +1,5 @@
 npm init es6 -y
+(criação de um projeto node)
 
 npm install express
 npm install mongodb
