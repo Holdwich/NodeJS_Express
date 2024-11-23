@@ -3,6 +3,9 @@ npm init es6 -y
 npm install express
 npm install mongodb
 npm install mulder
+npm install @google/generative-ai
+npm install cors
+(use npm install para pegar tudo de uma vez)
 
 node (arquivo).js
 

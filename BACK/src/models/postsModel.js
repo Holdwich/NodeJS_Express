@@ -34,3 +34,13 @@ export async function criarPost(novoPost) {
   // Insere o novo documento do post
   return colecao.insertOne(novoPost);
 }
+
+export async function atualizarPost(id, post) {
+  const db = cnx.db("imersao-instabyte"); // Obtém referência para o banco de dados
+  const colecao = db.collection("posts"); // Obtém referência para a coleção
+
+  const objectId = new ObjectId(id);
+
+  // Atualiza o documento com os novos valores
+  return colecao.updateOne({_id: objectId}, {$set: post});
+}
