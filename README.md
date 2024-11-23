@@ -4,7 +4,7 @@ Este repositório contém o código desenvolvido durante a **Imersão Backend** 
 
 ## 📋 Visão Geral
 
-O projeto é voltado para **fins educacionais**, servindo como base para estudos de **Express** e a construção de uma API REST. O site possui funcionalidades limitadas (como aceitar imagens somente em .png), com foco no funcionamento básico do backend e consumo da API no frontend.
+O projeto é voltado para **fins educacionais**, servindo como base para estudos de **Express** e a construção de uma API REST, portanto, o site possui funcionalidades limitadas (como aceitar imagens somente em .png), com foco no funcionamento básico do backend e consumo da API no frontend.
 
 ## ⚙️ Tecnologias Utilizadas
 
