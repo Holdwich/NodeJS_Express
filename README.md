@@ -33,7 +33,7 @@ Em ambos os consoles, as dependências para ambas as pastas, podem ser instalada
 npm install
 ```
 
-Ambos os back e front podem ser 'abertos' com o seguinte comando no console, nas suas respectivas pastas:
+Ambos o back e front podem ser 'abertos' com o seguinte comando no console, nas suas respectivas pastas:
 ```
 npm run dev
 ```
